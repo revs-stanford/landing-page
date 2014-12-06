@@ -1,0 +1,10 @@
+body.woz{
+  color: $text-color;
+  font-family: $font-family-sans-serif;
+  font-size: $font-size-base;
+  line-height: 1.65em;
+  letter-spacing: 0.02rem;
+  code{
+    color: black;
+  }
+}

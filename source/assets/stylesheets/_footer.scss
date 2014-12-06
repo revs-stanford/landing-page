@@ -1,0 +1,14 @@
+footer.woz{
+
+  border-top: thin solid #b3aaa9;
+    color: white;
+  min-height: 300px;
+  margin-top: 1.0em;
+  padding-top: 3.0em;
+  padding-bottom: 5.0em;
+  background: $stanford-red;
+  a, a:link, a:visited{
+    color: $stanford-red-link;
+  }
+
+}
