@@ -1,0 +1,16 @@
+#landing-page{
+  .sec{
+    margin-bottom: 2.0em;
+    padding-bottom: 2.0em;
+  }
+
+  #banner{
+    background:url('/assets/images/hero-map.png');
+    height: 400px;
+    h1{
+      font-size: 3.0em;
+    }
+
+    color: white;
+  }
+}
