@@ -1,8 +1,10 @@
 header class='woz'
-  nav class="navbar navbar-default navbar-fixed-top" role="navigation"
+  nav class="navbar navbar-fixed-top navbar-inverse"  role="navigation"
     div.container
-      ul.list-inline
-        li: a href="/" #{{config[:site_title]}}
-        li: a href="#" Schedule
-        li: a href="#" Panelists
-        li: a href="#" Data
+      div.navbar-scroll
+        ul class="nav navbar-nav" role="tablist"
+          li: a href="/" style="color: #933;" Data Driven @ Stanford
+          li: a href="#description" Description
+          li: a href="#schedule" Schedule
+          / li: a href="#panelists" Panelists
+          li: a href="#directions" Directions

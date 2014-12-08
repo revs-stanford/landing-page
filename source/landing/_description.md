@@ -1,5 +1,5 @@
+On February 13, 2015, Stanford University will host _Data Driven: Coding and Writing Transportation’s Future_. The conference will focus on the changing landscape of vehicle and transportation related data, and the opportunities arising from it. 
 
+Hosted by the [Stanford Journalism Program](http://journalism.stanford.edu), the [REVS Program at Stanford](http://revs.stanford.edu/) and the [Center for Automotive Research at Stanford](http://automotive.stanford.edu/),  the conference brings together professionals from a range of sectors who are working at the frontier of liberating and utilizing vehicular data. 
 
-The conference will focus on the changing landscape of vehicle and transportation related data, and the opportunities arising from it. 
-
-Hosted by the Stanford Journalism Program, the REVS Program at Stanford and the Center for Automotive Research at Stanford, the conference brings together professionals from a range of sectors who are working at the frontier of liberating and utilizing vehicular data
+Car manufacturers, tech companies, city government officials, academics, and journalists will all contribute to discussions about data and the evolution of automobility. The conference will feature three panels: data in the car, communication from or about the car, and car data as sensors of institutions. Invited panelists will share their experiences with data and cars, followed by moderated discussions involving the audience. The day concludes with a reception at [Stanford’s Arrillaga Alumni Center](https://alumni.stanford.edu/get/page/resources/alumnicenter/).

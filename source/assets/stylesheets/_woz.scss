@@ -4,6 +4,9 @@ body.woz{
   font-size: $font-size-base;
   line-height: 1.65em;
   letter-spacing: 0.02rem;
+  padding-top: 50px;
+  position: relative;
+  height: 100%;
   code{
     color: black;
   }

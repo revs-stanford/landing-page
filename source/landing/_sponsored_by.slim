@@ -1,6 +1,15 @@
 
-div.row
+/ div.row
+/   div.col-sm-6
+/     h4 RSVP Details
+/     p  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab laboriosam illo obcaecati reprehenderit a, necessitatibus non nam dignissimos. Reiciendis totam exercitationem doloremque earum, asperiores aspernatur. Quaerat voluptas hic et, adipisci.
+
+/     p => link_to 'Click here to RSVP', "/"
+/   div.col-sm-6
+h5 Sponsored by
+div.row.logos
   div.col-xs-6
-    div.imgwrap => image_tag 'stanford-journalism.png'
+    div.imgwrap => link_to image_tag( 'stanford-journalism.png'), 'http://journalism.stanford.edu'
   div.col-xs-6
-    div.imgwrap => image_tag 'stanford-revs.png'
+    div.imgwrap => link_to image_tag( 'stanford-revs.png'), 'http://revs.stanford.edu'
+div.imgwrap => link_to image_tag( 'stanford-cars-logo.png'), 'http://automotive.stanford.edu'

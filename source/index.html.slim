@@ -1,22 +1,37 @@
 ---
-title: REVS Data
+title: "Data Driven: Stanford REVS and Journalism"
 description: All the car data for your car analysis
 ---
 
-div#landing-page
+div id="landing-page"
+
 
   section.sec#banner
     div.container = partial "landing/banner"
 
-  section.sec#sponsored-by
-    div.container = partial "landing/sponsored_by"
 
-  section.sec
-    div.container = partial "landing/description"
 
-  section.sec
-    div.container = partial "landing/panels"
+  section.sec#description
+      div.container
+        div.row
+          div.col-sm-8
+            div = partial "landing/description"
+          div.col-sm-4
+            div = partial "landing/sponsored_by"
 
-  section.sec
-    div.container = partial "landing/directions"
+  section.sec#schedule
+    div.container
+      h2 Schedule
+      div = partial "landing/schedule"
+
+  / section.sec#panelists
+  /   div.container
+  /     h2 Panelists
+  /     div = partial "landing/panelists"
+
+
+  section.sec#directions
+    div.container
+      h2 Directions
+      div = partial "landing/directions"
 

@@ -4,33 +4,12 @@ body{
 
 header.woz{
   .navbar{
-    margin-bottom: 0em;
-    height: 30px;
-    font-size: 16px;
-    padding: 4px 0;
-    background: $stanford-red;
-    border-radius: 0;
-    border-bottom: 0;
-  }
-  .navbar:after {
-    clear: both;
-  }
+    // margin-bottom: 0em;
+    // background: $stanford-red;
+    // border-radius: 0;
+    // border-bottom: 0;
 
 
-  h2.title{
-    color: white;
-    font-size: 16px;
-    margin: 0 auto;
-    padding: 0 0;
-    text-align: left;
-    /* mixin TK */
-    width: 740px;
-
-
-    a:link, a:visited{
-      color:inherit;
-      text-decoration: none;
-    }
   }
 
 }
