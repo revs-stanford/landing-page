@@ -4,12 +4,13 @@ body{
 
 header.woz{
   .navbar{
-    // margin-bottom: 0em;
-    // background: $stanford-red;
-    // border-radius: 0;
-    // border-bottom: 0;
-
-
+    font-size: 14px;
+    line-height: 1.0em;
   }
 
+  @media (max-width: $screen-xs-max) {
+    .navbar.navbar-fixed-top{
+      position: relative;
+    }
+  }
 }
