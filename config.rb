@@ -2,6 +2,8 @@
 activate :i18n, :mount_at_root => :en
 activate :livereload
 activate :directory_indexes
+set :relative_links, true
+activate :relative_assets
 
 set :trailing_slash, true
 set :markdown_engine, :kramdown
