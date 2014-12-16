@@ -1,9 +1,9 @@
 footer class='woz'
   div class='container'
 
-    / div.contact-info
-    /   h5 Contact Us
-    /   p If you have any questions, please email us at #{{mail_to 'datadrivenrevs@stanford.edu'}}
+    div.contact-info
+      h4 Contact Us
+      p If you have any questions, please email #{{config[:contact_info][0]}} at #{{mail_to config[:contact_info][1]}}
 
     div.row
 

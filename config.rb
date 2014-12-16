@@ -32,7 +32,7 @@ set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :files_dir, 'assets/files'
-
+set :contact_info, ['Peter Johnson', 'peterjoh@stanford.edu']
 
 # Build-specific configuration
 configure :build do
