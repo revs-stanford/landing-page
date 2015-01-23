@@ -1,20 +1,41 @@
-- name: Jay Hamilton
+- first_name: Jay
+  last_name: Hamilton
   title: Director of Stanford Journalism
-  description: lorem
 
-- name: Reilly Brennan
-  title: Executive Director of the Revs Automotive Research Program
-  description: lorem
+- first_name: Reilly
+  last_name: Brennan
+  title: Executive Director of The Revs Program at Stanford
 
-- name: Cheryl Phillips
-  title: Hearst Professional in Residence
-  description: lorem
+- first_name: Cheryl
+  last_name: Phillips
+  title: Hearst Professional in Residence at Stanford
 
-- name: Dan Nguyen
-  title: Hearst Professional in Residence
-  description: lorem
+- first_name: Dan
+  last_name: Nguyen
+  title: Hearst Professional in Residence at Stanford
 
-- name: John Doe
-  title: Executive at Acme
-- name: Sarah Smith
-  title: Executive at Co.
+- first_name: Paul
+  last_name: Ingrassia
+  title: Managing Editor at Reuters and automotive author
+
+
+- first_name: Charlie
+  last_name: Catlett
+  title: |
+    Director at the Urban Center for Computation and Data at University of Chicago, Argonne National Laboratory
+
+- first_name: Michael
+  last_name: Morisy
+  title: Founder of MuckRock and Beta Boston for Boston Globe
+
+- first_name: Liz
+  last_name: Jensen
+  title: CEO of Road Rules
+
+- first_name: Danielle
+  last_name: Ivory
+  title:  "Investigative reporter, data journalist at the New York Times"
+
+- first_name: Aaron
+  last_name: Kessler
+  title: "Investigative reporter, data journalist at the New York Times"

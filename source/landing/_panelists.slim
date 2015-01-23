@@ -1,9 +1,8 @@
 div.row
   ul.list-unstyled.list-inline
-    - data.people.each do |person|
+    - data.people.sort_by{|p| p.last_name }.each do |person|
       li.col-sm-4
         div.well
           div.person
-            div.name => person.name
+            div.name => "#{person.first_name} #{person.last_name}"
             div.title => person.title
-            div.description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi officia culpa impedit neque, quae tenetur quibusdam. Cupiditate optio nis."
